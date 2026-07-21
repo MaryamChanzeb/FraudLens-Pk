@@ -1,16 +1,4 @@
-<div align="center">
 
-<img src="./assets/banner.png" alt="FraudLens PK Banner"/>
-
-# 🛡️ FraudLens PK
-
-### AI Digital Scam Shield for Pakistan
-
-<p>
-Detect Digital Scams Before They Detect You
-</p>
-
-</div>
 <div align="center">
 
 # 🛡️ FraudLens PK - AI Digital Scam Shield for Pakistan
