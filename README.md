@@ -366,8 +366,6 @@ FraudLens-PK/
 │   ├── shared/
 │   └── ui/
 │
-├── assets
-│   └── banner.png
 ├── .github
 ├── docs/
 │   ├── AI_PROMPT.md
