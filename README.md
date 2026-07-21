@@ -1,4 +1,16 @@
+<div align="center">
 
+<img src="./assets/banner.png" alt="FraudLens PK Banner"/>
+
+# 🛡️ FraudLens PK
+
+### AI Digital Scam Shield for Pakistan
+
+<p>
+Detect Digital Scams Before They Detect You
+</p>
+
+</div>
 <div align="center">
 
 # 🛡️ FraudLens PK - AI Digital Scam Shield for Pakistan
@@ -366,32 +378,17 @@ FraudLens-PK/
 │   ├── shared/
 │   └── ui/
 │
-├── data/
-│   └── dummyData.js
-│
+├── assets
+│   └── banner.png
+├── .github
 ├── docs/
 │   ├── AI_PROMPT.md
 │   ├── PROJECT_PLAN.md
 │   ├── TEAM_TASKS.md
 │   └── DEMO_SCAM_CASES.md
 │
-├── lib/
-│   ├── analyzeText.js
-│   ├── ocr.js
-│   ├── reportStore.js
-│   ├── styleHelpers.js
-│   ├── useCountUp.js
-│   └── utils.js
-│
-├── public/
-│   └── robots.txt
-│
 ├── package.json
 ├── package-lock.json
-├── next.config.js
-├── tailwind.config.js
-├── postcss.config.js
-├── jsconfig.json
 └── README.md
 ```
 
